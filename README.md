@@ -1,4 +1,4 @@
-# Goal_gui
+# Goal_position
 
 ## Program for MultiRobot project  
 
